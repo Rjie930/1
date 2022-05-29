@@ -1,0 +1,17 @@
+/* Write your styles */
+@media only screen and (min-width:641px) {
+  .am-container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+@media only screen and (min-width:641px) {
+  [class*="am-u-"] {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+.am-btn.am-radius {
+  border-radius: 6px;
+}
